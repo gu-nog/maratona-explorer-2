@@ -1,6 +1,6 @@
 # O projeto
 ### Como está:
-![foto após aula 2](exemplo.png)
+![foto após aula 3](exemplo.png)
 ### Ideia:
 Um site que permitirá você acessar uma série de links, permitindo você enviar para outras pessoas e/ou colocar em descrições de redes sociais... apenas o link para nosso projeto
 # Aula 1
@@ -24,6 +24,7 @@ Um site que permitirá você acessar uma série de links, permitindo você envia
 - Tags: ```<tag></tag>```
 - Tags sem fechamento, exemplo: ```<img ...> ou <img .../>```
 # Aula 2
+
 ## Propriedades
 - alinhamento dos filhos: ```text-align: center```
 - largura: ```width: ypx ou y%``` > relativo ao pai
@@ -56,11 +57,15 @@ Um site que permitirá você acessar uma série de links, permitindo você envia
 - Adicionar fontes: no fonts.google.com vc seleciona as que quiser depois copia o código e cola no head
 - pseudo-classes (:pseudoclasse) só aplicam estilo quando ocorrre algumas circunstãncias
   - ```:hover```: mouse em cima de um hipertexto
+# Aula 3
+## Dicas:
+ - Como salvar propriedades muito repetidas em variáveis: ```--nome-var: valor;```
+   - Pra usar: ```var(--nome-var)```
+ - color é uma propriedade que passa de pai para filho(aplicar no body aplica em todos textos)
 # 🔨 Tecnologias:
     - HTML - linguagem de estruturação(de marcação, não exatamente de programação) de hipertextos(com links)
     - CSS - estilização
-
 # Feito:
 - [x] Aula 1
 - [x] Aula 2
-- [ ] Aula 3
+- [x] Aula 3
