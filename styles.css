@@ -87,12 +87,23 @@ ul li a {
     color: var(--text-button-color);
     text-transform: uppercase;
     font-size: 14px;
-    margin-bottom: 16px;
     border-radius: 6px;
     transition: background 400ms;
 }
 
-ul li a:hover {
+ul li a:hover{
+    background: var(--primary-color-dark);
+}
+
+ul li {
+    overflow: hidden;
+    height: 53px;
+    margin-bottom: 16px;
+    transition: height 400ms;
+}
+
+ul li:hover {
+    height: 100px;
     background: var(--primary-color-dark);    
 }
 
