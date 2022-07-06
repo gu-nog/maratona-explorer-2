@@ -1,6 +1,6 @@
 # O projeto
 ### Como está:
-![foto após aula 3](exemplo.png)
+![foto após aula 3 com tema principal](exemplo.png)
 ### Ideia:
 Um site que permitirá você acessar uma série de links, permitindo você enviar para outras pessoas e/ou colocar em descrições de redes sociais... apenas o link para nosso projeto
 # Aula 1
@@ -69,3 +69,4 @@ Um site que permitirá você acessar uma série de links, permitindo você envia
 - [x] Aula 1
 - [x] Aula 2
 - [x] Aula 3
+- [x] Tema yellow
