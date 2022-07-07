@@ -104,6 +104,7 @@ ul li {
 
 ul li:hover {
     height: 100px;
+    border-radius: 6px;
     background: var(--primary-color-dark);    
 }
 
